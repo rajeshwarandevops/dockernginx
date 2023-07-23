@@ -1,3 +1,7 @@
+# Docker hub repo/image/version
+# kbrajeshwaran/nginx:v.0.0
+# Docker pull kbrajeshwaran/nginx:v.0.0
+
 # How to Create Custom Nginx Docker Image
 # mkdir <directory name>   mkdir docker-rajeshnginx cd docker-rajeshnginx
 # Create custom index.html

@@ -13,7 +13,7 @@
 
 
 FROM nginx:stable-alpine
-MAINTAINER name: Rajeshwaran
+MAINTAINER name: Rajeshwaran.K
 COPY index.html /usr/share/nginx/html/index.html
 EXPOSE 8081 
  CMD ["nginx", "-g", "daemon off;"]
